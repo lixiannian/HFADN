@@ -5,7 +5,7 @@ Hierarchical Feature Alignment Network towards Effective and Robust Real Image D
 
 Zhuo Su, Xin Li, Zhe Huang, Yuxin Feng, and Fan Zhou 
 
-<img src="D:\Users\liixiianniian\Desktop\LX\paper\TCSVT\PDF\Method Framework_00.png" alt="Method Framework_00" style="zoom: 50%;" />
+<img src=".\image\Method Framework_00.png" alt="Method Framework_00" style="zoom: 50%;" />
 
 
 
@@ -15,7 +15,7 @@ Zhuo Su, Xin Li, Zhe Huang, Yuxin Feng, and Fan Zhou
 
 Based on our proposed "rain image imaging model", as shown in following picture, we synthesis a large-scale rain dateset, named **MIRain**. You can download  the dataset from the Link.
 
-<img src="D:\Users\liixiianniian\Desktop\LX\GraduationProject\PrototypeSystem\code\image\equation\2.PNG" alt="2" style="zoom:67%;" />
+<img src=".\image\2.PNG" alt="2" style="zoom:67%;" />
 
 
 
