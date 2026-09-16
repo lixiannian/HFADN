@@ -1,9 +1,9 @@
 # HFADN
 Implementation of **HFADN**, from the following paper:
 
-**Visualization Imaging Model Guided Generalizable Real Rainy Image Deraining (TCSVT 2026)
+**Visualization Imaging Model Guided Generalizable Real Rainy Image Deraining (TCSVT 2026)**
 
-Zhuo Su, Xin Li, Zhe Huang, Yuxin Feng, and Fan Zhou **
+Zhuo Su, Xin Li, Zhe Huang, Yuxin Feng, and Fan Zhou 
 
 <img src=".\image\Method Framework_00.png" alt="Method Framework_00" style="zoom: 50%;" />
 
@@ -54,7 +54,10 @@ Based on our proposed "rain image imaging model", as shown in following picture,
    python eval_rainset.py # traing the teacher network
    python eval_rainset_real.py # training the student network
    ```
+   
 5. **Citation**:
+   
+   ```bash
    @ARTICLE{11683474,
      author={Li, Xin and Feng, Yuxin and Huang, Zhe and Zhou, Fan and Su, Zhuo},
      journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
@@ -64,7 +67,12 @@ Based on our proposed "rain image imaging model", as shown in following picture,
      number={},
      pages={1-1},
      keywords={Real image deraining;rain-affected imaging model;Semi-supervised learning},
-     doi={10.1109/TCSVT.2026.3731459}}
+     doi={10.1109/TCSVT.2026.3731459}
+     }
+   ```
+   
+   
+   
 
 #### Other
 
