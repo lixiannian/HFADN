@@ -1,7 +1,7 @@
 # HFADN
 Implementation of **HFADN**, from the following paper:
 
-Hierarchical Feature Alignment Network towards Effective and Robust Real Image Deraining
+Visualization Imaging Model Guided Generalizable Real Rainy Image Deraining (TCSVT 2026)
 
 Zhuo Su, Xin Li, Zhe Huang, Yuxin Feng, and Fan Zhou 
 
