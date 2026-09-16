@@ -1,9 +1,9 @@
 # HFADN
 Implementation of **HFADN**, from the following paper:
 
-Visualization Imaging Model Guided Generalizable Real Rainy Image Deraining (TCSVT 2026)
+**Visualization Imaging Model Guided Generalizable Real Rainy Image Deraining (TCSVT 2026)
 
-Zhuo Su, Xin Li, Zhe Huang, Yuxin Feng, and Fan Zhou 
+Zhuo Su, Xin Li, Zhe Huang, Yuxin Feng, and Fan Zhou **
 
 <img src=".\image\Method Framework_00.png" alt="Method Framework_00" style="zoom: 50%;" />
 
