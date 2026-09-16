@@ -54,6 +54,17 @@ Based on our proposed "rain image imaging model", as shown in following picture,
    python eval_rainset.py # traing the teacher network
    python eval_rainset_real.py # training the student network
    ```
+5. **Citation**:
+   @ARTICLE{11683474,
+     author={Li, Xin and Feng, Yuxin and Huang, Zhe and Zhou, Fan and Su, Zhuo},
+     journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+     title={Visualization Imaging Model Guided Generalizable Real Rainy Image Deraining}, 
+     year={2026},
+     volume={},
+     number={},
+     pages={1-1},
+     keywords={Real image deraining;rain-affected imaging model;Semi-supervised learning},
+     doi={10.1109/TCSVT.2026.3731459}}
 
 #### Other
 
